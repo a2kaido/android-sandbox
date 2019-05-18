@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">android-sandbox</string>
+
+    <string name="start_button">さっそく始める</string>
+
+    <string name="bottom_nav_home">ホーム</string>
+
+    <string name="bottom_nav_schedule">スケジュール</string>
+
+    <string name="bottom_nav_profile">プロフィール</string>
+</resources>
